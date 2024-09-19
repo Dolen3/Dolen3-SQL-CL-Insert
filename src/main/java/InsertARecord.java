@@ -19,7 +19,6 @@ import java.sql.Statement;
  *      - "val_1, val_2, ...val_N" is referring to the data we are trying to insert into that specific column.
  */
 public class InsertARecord {
-
     /*
      * Activity: Assuming the table "song" already exists, write the sql statement in the problem1.sql file that allows
      * us to add a new record into the table "song". It should work with any values for title and artist!
